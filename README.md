@@ -4,11 +4,11 @@ Collection of my dotfiles setup, currently consist of my:
 - .vimrc
 
 ## Oh My Zsh
-Take a look my Oh My Zsh setup -> [Zsh](https://github.com/sonadztux/dotfiles/tree/master/zsh)
+Take a look at my Oh My Zsh setup -> [Zsh](https://github.com/sonadztux/dotfiles/tree/master/zsh)
 ![sonadztux-oh-my-zsh](https://github.com/sonadztux/dotfiles/assets/25836292/f7872daa-c159-433e-b322-b0f46d5add45)
 
 ## Vim
-Take a look my Vim setup -> [Vim](https://github.com/sonadztux/dotfiles/tree/master/vim)
+Take a look at my Vim setup -> [Vim](https://github.com/sonadztux/dotfiles/tree/master/vim)
 ![sonadztux-oh-my-vim](https://github.com/sonadztux/dotfiles/assets/25836292/4cea6942-be73-4cd8-8514-544a18840cd7)
 
 ## License
